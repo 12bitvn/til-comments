@@ -1,3 +1,3 @@
 # til-comments
 
-This repo contains all comments from https://til.12bit.vn
+This repo contains all comments for https://til.12bit.vn
